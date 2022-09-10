@@ -1,1 +1,0 @@
-# urban-take-home-application
