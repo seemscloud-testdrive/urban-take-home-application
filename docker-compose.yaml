@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  application:
+    container_name: application
+    hostname: application
+    restart: always
+    build:
+      context: ./application
